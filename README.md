@@ -1,4 +1,4 @@
-# Pace - Claude Code Hooks
+# How to Make Claude Code Work Smarter — 6 Months Later (Hooks → Harness)
 
 Hello, Orchestrators
 

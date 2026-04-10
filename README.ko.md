@@ -1,4 +1,4 @@
-# Pace - Claude Code Hooks
+# Claude Code를 더 똑똑하게 쓰는 법 — 6개월 후 (Hooks에서 Harness로)
 
 안녕하세요 조율자 여러분
 
