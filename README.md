@@ -51,14 +51,6 @@ In particular, as I am currently developing an integrated Auth module, this feat
 
 CLI for using test accounts
 
-![Test account information](images/3.png)
-
-Test account information
-
-![Test account status](images/4.png)
-
-Test account status
-
 Before creating this CLI, it took Claude Code over 10 minutes just to log in for module testing.
 
 The module is being developed with all security measures — device authentication, session management, MFA, fingerprint verification, RBAC — enabled during development, even though these are often skipped in typical workflows.
